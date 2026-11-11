@@ -15,9 +15,9 @@ Key topics include:
 - Thread
 - Virtual memory
 
-From the first assignment: Stack
 
-### Stack Data Structure
+### From the first assignment: Stack
+## Stack Data Structure
 
 A stack is a data structure that follows the Last In, First Out (LIFO) principle.
 The most recently inserted element is removed first.
