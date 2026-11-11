@@ -39,3 +39,11 @@ During testing, I inserted the following values:
 4, 34, 70, 43, 83
 After these operations, 83 was the top element because it was inserted last.
 
+## Pop Operation
+
+The pop operation removes the most recently inserted element from the stack.
+After inserting five values, I performed three pop operations.
+The values were removed in this order:
+83, 43, 70
+This confirmed that the stack followed the LIFO principle.
+
