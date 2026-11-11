@@ -47,3 +47,9 @@ The values were removed in this order:
 83, 43, 70
 This confirmed that the stack followed the LIFO principle.
 
+### Clear Operation
+
+The clear operation removes all remaining elements from the stack.
+After performing three pop operations, two elements remained.
+I used the clear operation to remove these remaining elements and reset the stack.
+
