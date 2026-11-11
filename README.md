@@ -27,8 +27,15 @@ The main stack operations are:
 - Pop: Remove the top element
 - Clear: Remove all elements
 
-### System Calls
+## System Calls
 
 System calls allow user-level programs to request services from the operating system kernel.
 In this project, I added custom system calls to support stack operations. These system calls allowed a user application to interact with the stack managed inside the Linux kernel.
+
+## Push Operation
+
+The push operation adds a new element to the top of the stack.
+During testing, I inserted the following values:
+4, 34, 70, 43, 83
+After these operations, 83 was the top element because it was inserted last.
 
