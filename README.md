@@ -57,3 +57,7 @@ I used the clear operation to remove these remaining elements and reset the stac
 
 One challenge was resolving a kernel compilation error. This required checking changes to kernel files and correcting the implementation before rebuilding and testing.
 
+## Reflection
+Better understanding of Linux kernel development and system calls.
+I learned how to connect user-space applications with kernel-space functionality and how to test custom system calls.
+Helped me develop debugging skills and understand the importance of testing when modifying operating system components.
